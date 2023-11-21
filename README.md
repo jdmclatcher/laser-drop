@@ -1,5 +1,7 @@
 # Laser Drop - Fast Paced Color Match Arcade Game
 
+## Gameplay Trailer
+### (click image below to play on Youtube)
 [![Gameplay Trailer](https://img.youtube.com/vi/-a1E5lfGmyk/0.jpg)](https://www.youtube.com/watch?v=-a1E5lfGmyk)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
